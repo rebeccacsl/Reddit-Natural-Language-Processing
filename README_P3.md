@@ -70,7 +70,7 @@ Other insights would be Machine Learning and Statistics are similar in certain d
 ## Next Steps
 1) Overcoming the limitations in the number of post retrieved to more than 1000 post with future libraries improvement:
 
-Limitations from 1000~ post could affect the accuracy of analysis such as the trend of author activity within the same time period. Given that the machine learning subreddit is more active, 1000 post may contain only 2 months posts compared to statistiics which may have 3 months of post.
+Limitations from 1000~ post could affect the accuracy of analysis such as the trend of author activity within the same time period. Given that the machine learning subreddit is more active, 1000 post may contain only 2 months posts compared to statistics which may have 3 months of post.
 2) Further explore the models with different models such as KMeans to identify the relationships between the clusters.
 
 3) Exploring the dataset in different ways such as:
